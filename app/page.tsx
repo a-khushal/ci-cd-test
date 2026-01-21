@@ -13,6 +13,9 @@ export default function Home() {
           priority
         />
       </main>
+      <div className="">
+        Hi from the other side
+      </div>
     </div>
   );
 }
