@@ -12,6 +12,9 @@ export default function Home() {
           height={20}
           priority
         />
+        <div className="">
+          <h1 className="text-4xl font-bold">Hello World</h1>
+        </div>
       </main>
     </div>
   );
