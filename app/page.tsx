@@ -30,6 +30,9 @@ export default function Home() {
           <div key={item.toString()}>{item}</div>
         ))}
       </main>
+      <div className="">
+        Hi from the other side
+      </div>
     </div>
   );
 }
